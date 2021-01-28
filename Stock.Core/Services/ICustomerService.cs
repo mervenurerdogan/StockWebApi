@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Stock.Core.Models
+namespace Stock.Core.Services
 {
-    class ProductCategory
+  public  interface ICustomerService
     {
+
+
     }
 }
