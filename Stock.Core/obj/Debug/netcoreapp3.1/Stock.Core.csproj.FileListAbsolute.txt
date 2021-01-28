@@ -1,0 +1,9 @@
+C:\Users\a68_m\source\repos\StockWebApiProject\Stock.Core\bin\Debug\netcoreapp3.1\Stock.Core.deps.json
+C:\Users\a68_m\source\repos\StockWebApiProject\Stock.Core\bin\Debug\netcoreapp3.1\Stock.Core.dll
+C:\Users\a68_m\source\repos\StockWebApiProject\Stock.Core\bin\Debug\netcoreapp3.1\Stock.Core.pdb
+C:\Users\a68_m\source\repos\StockWebApiProject\Stock.Core\obj\Debug\netcoreapp3.1\Stock.Core.csprojAssemblyReference.cache
+C:\Users\a68_m\source\repos\StockWebApiProject\Stock.Core\obj\Debug\netcoreapp3.1\Stock.Core.AssemblyInfoInputs.cache
+C:\Users\a68_m\source\repos\StockWebApiProject\Stock.Core\obj\Debug\netcoreapp3.1\Stock.Core.AssemblyInfo.cs
+C:\Users\a68_m\source\repos\StockWebApiProject\Stock.Core\obj\Debug\netcoreapp3.1\Stock.Core.csproj.CoreCompileInputs.cache
+C:\Users\a68_m\source\repos\StockWebApiProject\Stock.Core\obj\Debug\netcoreapp3.1\Stock.Core.dll
+C:\Users\a68_m\source\repos\StockWebApiProject\Stock.Core\obj\Debug\netcoreapp3.1\Stock.Core.pdb
